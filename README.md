@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-wysokier
-Demo web para Estudio jurídico Dra Wysokier — diseñada por eterlab.
+# Estudio jurídico Dra Wysokier
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
